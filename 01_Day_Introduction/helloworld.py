@@ -1,13 +1,13 @@
 # Introduction
 # Day 1 - 30DaysOfPython Challenge
 
-print(2 + 3)   # addition(+)
-print(3 - 1)   # subtraction(-)
-print(2 * 3)   # multiplication(*)
-print(3 / 2)   # division(/)
-print(3 ** 2)  # exponential(**)
-print(3 % 2)   # modulus(%)
-print(3 // 2)  # Floor division operator(//)
+print(2 + 3)   # toplama(+)
+print(3 - 1)   # çıkarma(-)
+print(2 * 3)   # çarpma(*)
+print(3 / 2)   # bölme(/)
+print(3 ** 2)  # kuvvet alma(**)
+print(3 % 2)   # modulus bölümden kalan(%)
+print(3 // 2)  # Floor division operator bölümün tam kısmı(//)
 
 # Checking data types
 
