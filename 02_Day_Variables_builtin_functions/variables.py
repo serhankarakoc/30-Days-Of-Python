@@ -1,5 +1,5 @@
 
-# Variables in Python
+# Değişkenler
 
 first_name = 'Asabeneh'
 last_name = 'Yetayeh'
@@ -15,7 +15,7 @@ person_info = {
     'city':'Helsinki'
     }
 
-# Printing the values stored in the variables
+# Değişkenlerde saklanan değerleri yazdırma
 
 print('First name:', first_name)
 print('First name length:', len(first_name))
@@ -28,7 +28,7 @@ print('Married: ', is_married)
 print('Skills: ', skills)
 print('Person information: ', person_info)
 
-# Declaring multiple variables in one line
+# Bir satırda birden çok değişken bildirme
 
 first_name, last_name, country, age, is_married = 'Asabeneh', 'Yetayeh', 'Helsink', 250, True
 
